@@ -1,0 +1,34 @@
+# Ignore compiled files
+*.exe
+*.dll
+*.pdb
+
+# Ignore NuGet packages
+*.nuget/
+*.nupkg
+
+# Ignore build output
+obj/
+bin/
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore Rider files
+.idea/
+
+# Ignore build properties
+*.userprefs
+
+# Ignore temporary files
+*.DS_Store
+thumbs.db
+
+node_modules/
+
